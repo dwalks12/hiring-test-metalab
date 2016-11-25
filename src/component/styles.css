@@ -1,0 +1,82 @@
+.product {
+  display: inline-block;
+  padding: 10px;
+  border: 1px #bcbcbc solid;
+  margin: 10px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Open Sans';
+}
+.position {
+  width: 95%;
+  margin: auto;
+}
+.clearbutton {
+  font-family: 'Open Sans';
+  font-weight: normal;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 1px #bcbcbc solid;
+  padding: 2px 10px 2px 10px;
+  box-shadow: 0px 1px rgba(0,0,0,0.3);
+  cursor: pointer;
+  text-align: center;
+  width: 150px;
+}
+.emptycart {
+  font-size: 26px;
+  font-weight: normal;
+  font-family: 'Open Sans';
+}
+.productImage {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+
+}
+.items {
+  font-size: 26px;
+  font-weight: normal;
+  font-family: 'Open Sans';
+}
+.total {
+  text-align: right;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Open Sans';
+}
+.heading {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Open Sans';
+}
+.addsubtractButton {
+  font-family: 'Material Icons';
+  align-items: center;
+  vertical-align: sub;
+  font-weight: bolder;
+  cursor: pointer;
+  font-size: 32px;
+}
+.shoppingIcon {
+  font-family: 'Material Icons';
+  align-items: center;
+  vertical-align: bottom;
+}
+.producttable {
+  width: 100%;
+  margin: auto;
+
+}
+.rowAttributes {
+  border-bottom: 1px #bcbcbc solid;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  text-align: left;
+  font-size: 26px;
+
+}
